@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="preview.png" alt="Spice Heaven Homepage" width="900">
+  <img src="spice-heaven.png" alt="Spice Heaven Homepage" width="900">
 </p>
 
 <h1 align="center">🍽️ Spice Heaven</h1>
