@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 🍽️ Spice Heaven
@@ -46,4 +46,3 @@ https://lichapathak.wixsite.com/spice-heaven
 ⭐ *If you like this project, consider giving the repository a star.*
 
 </div>
-```
