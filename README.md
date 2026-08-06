@@ -1,50 +1,37 @@
 <p align="center">
-  <img src="spice_heaven.png" alt="Mystic Meghalaya Preview" width="900">
+  <img src="preview.png" alt="Spice Heaven Homepage" width="900">
 </p>
-<div align="center">
 
-# 🍽️ Spice Heaven
+<h1 align="center">🍽️ Spice Heaven</h1>
 
-### *A Modern Restaurant Website*
+<p align="center">
+  <b>A Modern Restaurant Website</b>
+</p>
 
-🌐 **Live Website:**  
-https://lichapathak.wixsite.com/spice-heaven
+<p align="center">
+  <a href="https://lichapathak.wixsite.com/spice-heaven">
+    🌐 Live Demo
+  </a>
+</p>
 
 ---
 
-*Designed to deliver an elegant online dining experience with a clean interface, responsive layout, and easy navigation.*
+## 📖 About
 
-</div>
+Spice Heaven is a modern restaurant website designed to provide visitors with an elegant online dining experience. It features a clean interface, intuitive navigation, and responsive design for seamless browsing across devices.
 
-## ✨ Overview
+## ✨ Features
 
-**Spice Heaven** is a restaurant website built using **Wix**. It provides visitors with a seamless browsing experience while showcasing the restaurant's menu, services, and contact information.
-
-## 🚀 Features
-
-- 🍴 Elegant restaurant landing page
-- 📖 Digital menu
-- 📱 Responsive design
-- 📍 Contact & location section
-- 🎨 Clean and modern user interface
+- 🍴 Restaurant Landing Page
+- 📜 Digital Menu
+- 📍 Contact Information
+- 📱 Responsive Design
+- 🎨 Modern User Interface
 
 ## 🛠️ Built With
 
-- **Wix Website Builder**
+- Wix Website Builder
 
-## 🔗 Live Demo
-
-> **Visit Here:**  
-> https://lichapathak.wixsite.com/spice-heaven
-
----
-
-<div align="center">
-
-### 👩‍💻 Developed by
+## 👩‍💻 Author
 
 **Licha Pathak**
-
-⭐ *If you like this project, consider giving the repository a star.*
-
-</div>
