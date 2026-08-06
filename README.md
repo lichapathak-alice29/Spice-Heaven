@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="spice_heaven.png" alt="Mystic Meghalaya Preview" width="900">
+</p>
 <div align="center">
 
 # 🍽️ Spice Heaven
