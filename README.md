@@ -1,21 +1,49 @@
+```md
+<div align="center">
+
 # 🍽️ Spice Heaven
 
-A restaurant website built using Wix.
+### *A Modern Restaurant Website*
 
-## Live Demo
-🌐 https://lichapathak.wixsite.com/spice-heaven
+🌐 **Live Website:**  
+https://lichapathak.wixsite.com/spice-heaven
 
-## About
-Spice Heaven is a modern restaurant website showcasing the menu, services, contact information, and an elegant user interface.
+---
 
-## Features
-- Responsive design
-- Restaurant menu
-- Contact page
-- Clean and modern UI
+*Designed to deliver an elegant online dining experience with a clean interface, responsive layout, and easy navigation.*
 
-## Built With
-- Wix Website Builder
+</div>
 
-## Author
-Licha Pathak
+## ✨ Overview
+
+**Spice Heaven** is a restaurant website built using **Wix**. It provides visitors with a seamless browsing experience while showcasing the restaurant's menu, services, and contact information.
+
+## 🚀 Features
+
+- 🍴 Elegant restaurant landing page
+- 📖 Digital menu
+- 📱 Responsive design
+- 📍 Contact & location section
+- 🎨 Clean and modern user interface
+
+## 🛠️ Built With
+
+- **Wix Website Builder**
+
+## 🔗 Live Demo
+
+> **Visit Here:**  
+> https://lichapathak.wixsite.com/spice-heaven
+
+---
+
+<div align="center">
+
+### 👩‍💻 Developed by
+
+**Licha Pathak**
+
+⭐ *If you like this project, consider giving the repository a star.*
+
+</div>
+```
