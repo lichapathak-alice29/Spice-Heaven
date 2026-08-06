@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="spice_heaven.png" alt="Spice Heaven Homepage" width="900">
-</p>
 
 <h1 align="center">🍽️ Spice Heaven</h1>
 
@@ -35,3 +32,9 @@ Spice Heaven is a modern restaurant website designed to provide visitors with an
 ## 👩‍💻 Author
 
 **Licha Pathak**
+
+## 📸 Website Preview
+
+<p align="center">
+  <img src="spice_heaven.png" alt="Spice Heaven Homepage" width="900">
+</p>
